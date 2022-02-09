@@ -1,0 +1,54 @@
+body{
+
+
+}
+
+#t1 {
+
+font-size: 35px;
+}
+
+#t2 {
+
+font-size: 25px;
+border: groove 5px;
+
+width: 650px;
+}
+
+#t3 {
+  border: outset 5px;
+font-size: 20px;
+width: 200px;
+}
+
+#button1 {
+
+
+  background-color: #094A94; 
+ border-top-left-radius:25%;
+ border-top-right-radius:25%;
+ border-bottom-right-radius:25% ;
+ border-bottom-left-radius: 25%;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+
+}
+
+
+#button2 {
+
+  background-color: #59B478; 
+  color: black;
+  text-align: center;
+  display: inline-block;
+  font-size: 30px;
+  width: 100px;
+  height: 70px;
+}
+
+
